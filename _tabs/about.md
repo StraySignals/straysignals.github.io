@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# STRAY SIGNALS.
+# >_STRAY SIGNALS.
 *Finding meaning beyond the noise.*
 
 <b> Every signal has a story. But finding meaning beyond the noise is what makes those stories worth pursuing. </b>
@@ -26,5 +26,4 @@ I'm not here to define everything just yet. I'm here to explore, create, underst
 --
 
 Rhedyn Delos Santos (rhed-IT)
-
 Stray Signals, 2026.
