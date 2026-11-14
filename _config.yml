@@ -14,7 +14,7 @@ timezone: Asia/Manila
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: >_StraySignals # the main title
+title: Stray Signals # the main title
 
 tagline: Finding meaning beyond the noise. # it will display as the subtitle
 
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/straysignals.png
+avatar: /assets/img/_StraySignals.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
