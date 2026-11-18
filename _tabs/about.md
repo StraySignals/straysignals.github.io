@@ -4,26 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# >_STRAY SIGNALS.
+# >_STRAY SIGNALS
 *Finding meaning beyond the noise.*
 
-<b> Every signal has a story. But finding meaning beyond the noise is what makes those stories worth pursuing. </b>
+Somewhere between finding my direction and figuring out where I belong, I find myself venturing into different fields, following unfamiliar paths, and uncovering opportunities I never expected. Much like a fish navigating the vastness of the ocean, I continue to explore the ever-expanding world of technology, embracing the unfamiliar and finding meaning along the way.
 
-Somewhere between being undefined and getting lost in the field, I find myself exploring different disciplines, following unfamiliar paths, and discovering things I never quite expected.
+The logo represents a fish navigating the vast ocean, symbolizing exploration and adaptability. It also reflects the field of my current work, where I found my footing and discovered the direction I wanted to pursue professionally. Inspired by the terminal prompt, the greater-than symbol (>) forms the fish's tail, representing movement and direction, while the underscore (_) symbolizes the endless possibilities ahead. At its center, the abstract S represents STRAY SIGNALS, bringing all these elements together into a single identity.
 
-**STRAY SIGNALS** is a reflection of that journey. A collection of the systems I build, the knowledge I contribute, the ideas I explore, and the experiences that shape the way I see things. It is where technology meets curiosity, where different disciplines intersect, and where unexpected discoveries find their place.
+**STRAY SIGNALS** is a space for the systems I build, the knowledge I acquire, the ideas I explore, and the experiences that shape my perspective. It brings together my diverse interests in IT operations, infrastructure, management, research, cybersecurity, and other creative pursuits. More than just a collection of interests, it also serves as a professional portfolio, technical archive, and personal journal where I document my work and share my experiences.
 
-From building and managing systems to exploring technology, research, infrastructure, management, creative pursuits, and cybersecurity, this is a space for everything that doesn't necessarily fit into one box.
+I believe that by exploring the unfamiliar, we discover new interests, recognize our potential, and find directions we never imagined pursuing. I don't have everything figured out, and I don't think I need to just yet. There is still so much to learn, experience, and discover beyond what I already know. For now, I'll keep exploring, creating, and following the paths that spark my curiosity, wherever they may lead.
 
-Sitting somewhere between a professional portfolio, a technical archive, and a personal journal, **STRAY SIGNALS** is a collection of my work, discoveries, experiments, and reflections. A place to document the things I build, share the things I learn, and leave traces of the things worth remembering.
+"*Because sometimes, the most meaningful discoveries happen when you allow yourself to get a little lost.*"
 
-Some paths lead to discoveries, others to questions, and a few take us somewhere we never expected to be. Perhaps that's the beauty of the uncertainty: not knowing exactly where you'll end up, but finding something worthwhile along the way.
-
-I'm not here to define everything just yet. I'm here to explore, create, understand, and make something out of the things I encounter. To follow unfamiliar paths, embrace unexpected turns, and find meaning in places I never thought to look.
-
-*Because sometimes, the most meaningful journey are found when you allow yourself to get a little lost.*
-
---
-
-Rhedyn Delos Santos (rhed-IT)
+Rhedyn Delos Santos (rhed-IT) \
 Stray Signals, 2026.
